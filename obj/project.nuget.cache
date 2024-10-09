@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "g6vJPF3qpqw=",
+  "dgSpecHash": "PKSRFB45s7g=",
   "success": true,
   "projectFilePath": "D:\\JOAZ\\kampus\\SEMESTER 5\\KTI - ERICK\\2024\\KTI\\SampleSecureWeb\\SampleSecureWeb.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ThinkPad\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\ThinkPad\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ThinkPad\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\ThinkPad\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",

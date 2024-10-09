@@ -1,5 +1,6 @@
 using System;
 using Microsoft.EntityFrameworkCore;
+using SampleSecureWeb.Migrations;
 using SampleSecureWeb.Models;
 
 namespace SampleSecureWeb.Data
@@ -12,5 +13,6 @@ namespace SampleSecureWeb.Data
 
         }
         public DbSet<Student> Students { get; set; } = null!;
+        public DbSet<User> Users { get; set; } = null!;
     }
 }
